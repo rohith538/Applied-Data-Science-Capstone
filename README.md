@@ -9,6 +9,7 @@ Part of the IBM Data Science Professional Certificate, multiple assignments for 
 * 6 - dataset_part_2.csv(https://github.com/rohith538/Data-Science-and-Machine-Learning-Capstone-Project/blob/main/dataset_part_2.csv)
 * 7 - Hands-on_Lab_Complete_the_EDA_with_SQL.ipynb(https://github.com/rohith538/Data-Science-and-Machine-Learning-Capstone-Project/blob/main/Hands-on_Lab_Complete_the_EDA_with_SQL.ipynb)
 * 8 - my_data1.db(https://github.com/rohith538/Data-Science-and-Machine-Learning-Capstone-Project/blob/main/my_data1.db)
+* 9 - Spacex.csv()
 * 9 - Hands-on_Lab_Complete_the_EDA_with_Visualization.ipynb(https://github.com/rohith538/Data-Science-and-Machine-Learning-Capstone-Project/blob/main/Hands-on_Lab_Complete_the_EDA_with_Visualization.ipynb)
 * 10 - dataset_part_3.csv(https://github.com/rohith538/Data-Science-and-Machine-Learning-Capstone-Project/blob/main/dataset_part_3.csv)
 * 11 - Hands-on_Lab_Interactive_Visual_Analytics_with_Folium_lab.ipynb(https://github.com/rohith538/Data-Science-and-Machine-Learning-Capstone-Project/blob/main/Hands-on_Lab_Interactive_Visual_Analytics_with_Folium_lab.ipynb)
