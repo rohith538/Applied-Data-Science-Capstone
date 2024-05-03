@@ -1,6 +1,5 @@
 # Applied-Data-Science-Capstone
 Part of the IBM Data Science Professional Certificate, multiple assignments for course 10 out of 10
-
 1 - Hands-on Lab_ Complete the Data Collection API Lab.ipynb
 2 - Hands-on Lab_ Data Collection with Web Scraping.ipynb
 3 - Hands-On Lab_ Data Wrangling.ipynb
