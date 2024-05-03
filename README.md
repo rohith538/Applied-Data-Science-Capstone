@@ -8,9 +8,11 @@ Part of the IBM Data Science Professional Certificate, multiple assignments for 
 * 5 - Hands-on_Lab_Data_Wrangling.ipynb
 * 6 - dataset_part_2.csv
 * 7 - Hands-on_Lab_Complete_the_EDA_with_SQL.ipynb
-* 8 - Hands-on_Lab_Complete_the_EDA_with_Visualization.ipynb
-* 9 - Hands-on_Lab_Interactive_Visual_Analytics_with_Folium_lab.ipynb
-* 10 - spacex_dash_app.py
-* 11 - spacex_launch_dash.csv
-* 12 - Hands-on_Lab_Complete_the_Machine_Learning_Prediction_lab.ipynb
+* 8 - my_data1.db 
+* 9 - Hands-on_Lab_Complete_the_EDA_with_Visualization.ipynb
+* 10 - dataset_part_3.csv
+* 11 - Hands-on_Lab_Interactive_Visual_Analytics_with_Folium_lab.ipynb
+* 12 - spacex_dash_app.py
+* 13 - spacex_launch_dash.csv
+* 14 - Hands-on_Lab_Complete_the_Machine_Learning_Prediction_lab.ipynb
   
